@@ -27,11 +27,11 @@
     </div>
     <script>
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/WebGL.loader.js";
+      var loaderUrl = buildUrl + "/unity_web_PCSHSL.loader.js";
       var config = {
-        dataUrl: buildUrl + "/WebGL.data.gz",
-        frameworkUrl: buildUrl + "/WebGL.framework.js.gz",
-        codeUrl: buildUrl + "/WebGL.wasm.gz",
+        dataUrl: buildUrl + "/unity_web_PCSHSL.data.unityweb",
+        frameworkUrl: buildUrl + "/unity_web_PCSHSL.framework.js.unityweb",
+        codeUrl: buildUrl + "/unity_web_PCSHSL.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DefaultCompany",
         productName: "M4_First_Game",
@@ -54,7 +54,7 @@
         }, 5000);
       } else {
         canvas.style.width = "960px";
-        canvas.style.height = "600px";
+        canvas.style.height = "480px";
       }
       loadingBar.style.display = "block";
 
