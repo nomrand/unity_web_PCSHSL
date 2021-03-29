@@ -720,7 +720,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: M4 First Game (class 1)
+  m_Text: M4 First Game
 --- !u!222 &1518866609
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -882,7 +882,28 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   button: {fileID: 4974399640716622235, guid: 0351e334627908c41b93b1162ccf722c, type: 3}
-  dirs: []
+  dirs:
+  - 040101
+  - 040102
+  - 040103
+  - 040104
+  - 040106
+  - 040107
+  - 040108
+  - 040109
+  - 040110
+  - 040111
+  - 040112
+  - 040115
+  - 040116
+  - 040117
+  - 040118
+  - 040120
+  - 040121
+  - 040122
+  - 040123
+  - 040124
+  titleText: {fileID: 1518866608}
 --- !u!1 &1915504947
 GameObject:
   m_ObjectHideFlags: 0

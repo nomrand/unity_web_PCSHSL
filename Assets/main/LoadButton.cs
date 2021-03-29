@@ -13,9 +13,12 @@ public class LoadButton : MonoBehaviour {
 
     // Start is called before the first frame update
     void Start () {
-        scenePath = folderName + "/" + sceneName;
+        int len = folderName.Length;
+        string cl = folderName.Substring(len-4, 2);
+        string num = folderName.Substring(len-2, 2);
+        scenePath = cl + "/" + folderName + "/" + sceneName;
 
-        GetComponentInChildren<Text> ().text = folderName;
+        GetComponentInChildren<Text> ().text = "No." + num;
     }
 
     // Update is called once per frame

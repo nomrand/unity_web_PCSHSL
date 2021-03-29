@@ -720,7 +720,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: M4 First Game (class 4)
+  m_Text: M4 First Game
 --- !u!222 &1518866609
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -901,6 +901,7 @@ MonoBehaviour:
   - 040421
   - 040423
   - 040424
+  titleText: {fileID: 1518866608}
 --- !u!1 &1915504947
 GameObject:
   m_ObjectHideFlags: 0
