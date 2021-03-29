@@ -6,69 +6,75 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/main/main5.unity
-    guid: c32ca08c92ec497459f299dc226fa750
+    path: Assets/main/main6.unity
+    guid: 07b6b6ac395a2274496a3174467aa4ca
   - enabled: 1
     path: Assets/main/AddScene.unity
     guid: 4abb4b2106cb63c4bba4a25f3ee5cbe7
   - enabled: 1
-    path: Assets/05/040501/SampleScene 1.unity
-    guid: 362844bb4c08df048b14b717be94dbf3
+    path: Assets/06/040601/SampleScene 1.unity
+    guid: 63bc6a7ca6a0b8c4e97d02a8f0dac629
   - enabled: 1
-    path: Assets/05/040502/SampleScene 1.unity
-    guid: a5dbaba250d6ba446ae411bd1675b940
+    path: Assets/06/040602/SampleScene 1.unity
+    guid: cede7919d4576064eaadd0ff1212b80c
   - enabled: 1
-    path: Assets/05/040503/SampleScene 1.unity
-    guid: 0856a409b6fce6945bf5bcd19b67b154
+    path: Assets/06/040604/SampleScene 1.unity
+    guid: bcfd789c05c1f9f4ca3c27b4be205d9e
   - enabled: 1
-    path: Assets/05/040504/SampleScene 1.unity
-    guid: 66663ad03faebe748b7516e53b8e40eb
+    path: Assets/06/040605/SampleScene 1.unity
+    guid: 1544b12c3042fb74e886d0f34728e4a8
   - enabled: 1
-    path: Assets/05/040505/SampleScene 1.unity
-    guid: 3b809467de270d640a1b54376a5555d0
+    path: Assets/06/040606/SampleScene 1.unity
+    guid: e7507cb164a898c4b957579b0be2571c
   - enabled: 1
-    path: Assets/05/040506/SampleScene 1.unity
-    guid: d78a7fffd5c996e418727e8c17062693
+    path: Assets/06/040607/SampleScene 1.unity
+    guid: 2279f0a43c3a0124aae58c4441a1ae6e
   - enabled: 1
-    path: Assets/05/040507/SampleScene 1.unity
-    guid: 71e237a2d48b4e541b823d791d962881
+    path: Assets/06/040608/SampleScene 1.unity
+    guid: 48f8092b9abacf344a067da7ea124531
   - enabled: 1
-    path: Assets/05/040508/SampleScene 1.unity
-    guid: 2a3f64d140fba4e49b331e6a2732fccd
+    path: Assets/06/040609/SampleScene 1.unity
+    guid: 82c1ae63a37978f49bd23a8f3e4619cc
   - enabled: 1
-    path: Assets/05/040509/SampleScene 1.unity
-    guid: fb49f9a1b18723c4bbb837289eb97868
+    path: Assets/06/040610/SampleScene 1.unity
+    guid: 4a6cb42fbe1248b40adfd331ef054367
   - enabled: 1
-    path: Assets/05/040510/SampleScene 1.unity
-    guid: a0e9ff5fa2f02424ea67647c4f1dde75
+    path: Assets/06/040611/SampleScene 1.unity
+    guid: 3bf39ae76c007d343ba5de50d5f71f9d
   - enabled: 1
-    path: Assets/05/040511/SampleScene 1.unity
-    guid: c96997f47eeae424988fd1fab9a7f011
+    path: Assets/06/040612/SampleScene 1.unity
+    guid: d16ccaa792f49e348a0325b99fd68484
   - enabled: 1
-    path: Assets/05/040513/SampleScene 1.unity
-    guid: eb48913589596e64daad34f6770c2e27
+    path: Assets/06/040613/SampleScene 1.unity
+    guid: 00b65ae0f97f8bb4b86424d4cc2d1886
   - enabled: 1
-    path: Assets/05/040515/SampleScene 1.unity
-    guid: dca2f5eb4feb3f04c8bf62b8a0102a4f
+    path: Assets/06/040614/SampleScene 1.unity
+    guid: be1b967a8596bf24c9ad9f1ddb019f4a
   - enabled: 1
-    path: Assets/05/040516/SampleScene 1.unity
-    guid: 76099f237e6c6074d8a02fac375e2f02
+    path: Assets/06/040615/SampleScene 1.unity
+    guid: 5837d673b7ed52b479fa1b1174a9f659
   - enabled: 1
-    path: Assets/05/040517/SampleScene 1.unity
-    guid: 7dad62a6e213d824788b5e6612ef23b1
+    path: Assets/06/040616/SampleScene 1.unity
+    guid: 2f0a6a31f9ef4e748b246a7bb56c6e3b
   - enabled: 1
-    path: Assets/05/040518/SampleScene 1.unity
-    guid: 3924a82351f38ca468648175f6567f7e
+    path: Assets/06/040618/SampleScene 1.unity
+    guid: a88152d22aa276b46b31582325008495
   - enabled: 1
-    path: Assets/05/040519/SampleScene 1.unity
-    guid: a4aaad265ee9ea243b907b158324a7be
+    path: Assets/06/040620/SampleScene 1.unity
+    guid: f1b423bdab323b2449ebd3350b3166e1
   - enabled: 1
-    path: Assets/05/040522/SampleScene 1.unity
-    guid: 1e68cd2b8bb9cd84dbc2837f48d6ac5f
+    path: Assets/06/040621/SampleScene 1.unity
+    guid: b4894e5ccb3c6b94bb60f56f44e41f24
   - enabled: 1
-    path: Assets/05/040523/SampleScene 1.unity
-    guid: 306103f4b8b273d47bc66b506e53410b
+    path: Assets/06/040622/SampleScene 1.unity
+    guid: fa04888b34ec93345af46f4d02b68cc1
   - enabled: 1
-    path: Assets/05/040524/SampleScene 1.unity
-    guid: 8a3061c5fc4bcfd46b0690d36350ce84
+    path: Assets/06/040623/SampleScene 1.unity
+    guid: f10d65eea76bb5c4db65181980818057
+  - enabled: 1
+    path: Assets/06/040624/SampleScene 1.unity
+    guid: 7568a6c10e6556742b6f4288048d2609
+  - enabled: 1
+    path: Assets/06/040619/SampleScene 1.unity
+    guid: 792187c2bc66d0f4d822d58f3d963f9c
   m_configObjects: {}
