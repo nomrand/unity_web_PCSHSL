@@ -6,25 +6,7 @@ using UnityEngine;
 
 public class SController : MonoBehaviour {
     public GameObject button;
-    private string[] dirs = {
-        "040401",
-        "040404",
-        "040408",
-        "040409",
-        "040410",
-        "040411",
-        "040412",
-        "040413",
-        "040414",
-        "040415",
-        "040416",
-        "040417",
-        "040418",
-        "040419",
-        "040420",
-        "040421",
-        "040423",
-        "040424",
+    public string[] dirs = {
     };
 
     // Start is called before the first frame update

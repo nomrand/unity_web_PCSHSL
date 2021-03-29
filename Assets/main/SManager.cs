@@ -61,7 +61,7 @@ public class SManager : MonoBehaviour {
     }
 
     public void goBack () {
-        SceneManager.LoadScene ("main");
+        SceneManager.LoadScene (0);
     }
 
     public void playerJump () {
